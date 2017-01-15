@@ -1,0 +1,5 @@
+name: falling_meadow_2811
+description: A new flutter project.
+dependencies:
+  flutter:
+    sdk: flutter
